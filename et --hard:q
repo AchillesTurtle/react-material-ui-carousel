@@ -1,0 +1,1276 @@
+[33mcommit 3ceb5bba83b1b38c8fc6ad0496dca6945f64b655[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lhanhsin <lhanhsin@gmail.com>
+Date:   Thu Nov 10 02:43:11 2022 +1100
+
+    build
+
+[33mcommit 66bb5ac5cd640fae429d099119d6516ada249fa5[m
+Author: Takodadon <lhanhsin@gmail.com>
+Date:   Thu Nov 10 02:42:42 2022 +1100
+
+    Update CarouselItem.tsx
+
+[33mcommit 37b6c59c4abb6174255c2e3d5daa7143fbf25bca[m
+Author: lhanhsin <lhanhsin@gmail.com>
+Date:   Thu Nov 10 01:43:04 2022 +1100
+
+    build
+
+[33mcommit d73156928c81ecea3be55bbd2beff90d00c64af2[m
+Author: Takodadon <lhanhsin@gmail.com>
+Date:   Thu Nov 10 01:42:42 2022 +1100
+
+    Update CarouselItem.tsx
+
+[33mcommit 1b849e47c6446750ef7331238f19d9b99298428e[m
+Author: Takodadon <lhanhsin@gmail.com>
+Date:   Thu Nov 10 01:19:59 2022 +1100
+
+    Update CarouselItem.tsx
+
+[33mcommit 9d2ece75a5b80b9c6a910e9aeba5fa8d737bea7a[m
+Author: lhanhsin <lhanhsin@gmail.com>
+Date:   Thu Nov 10 01:05:42 2022 +1100
+
+    build
+
+[33mcommit 918599277832cfdf41dfbfde10521a24c077428c[m
+Author: Takodadon <lhanhsin@gmail.com>
+Date:   Thu Nov 10 01:05:10 2022 +1100
+
+    Update CarouselItem.tsx
+
+[33mcommit c21ea086ea320e158b3668ddd87aeb696672eb9d[m
+Author: lhanhsin <lhanhsin@gmail.com>
+Date:   Thu Nov 10 00:19:20 2022 +1100
+
+    build
+
+[33mcommit d8a0e3e768ee8ac55157dc993a542dccd76a7d2b[m
+Author: Takodadon <lhanhsin@gmail.com>
+Date:   Thu Nov 10 00:18:12 2022 +1100
+
+    Update CarouselItem.tsx
+
+[33mcommit 592bd1ce76cbb33972f21d916eb6e6b5b98f72d1[m
+Author: lhanhsin <lhanhsin@gmail.com>
+Date:   Wed Nov 9 23:51:53 2022 +1100
+
+    Add dist
+
+[33mcommit 9e7199c7a8b127137bdcdb26e8186b20abc99ec0[m
+Author: Ted Brownlow <ted.brownlow@gmail.com>
+Date:   Thu Jul 7 14:32:04 2022 -0400
+
+    Fix slide direction for two items
+
+[33mcommit 3357104c8d5c7ce06ea9a33a08fe460a80f2d4ef[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon May 30 23:51:57 2022 +0300
+
+    removed forgotten console.log
+
+[33mcommit 2c8bda07331d9660a1570173771f649688a5fd43[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat May 28 18:17:15 2022 +0300
+
+    3.4.0, 3.4.1, shrink bug + react 18 support
+
+[33mcommit ec64db1f4f7700bf6504612080fa3f77b9ebd31a[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat May 28 17:11:13 2022 +0300
+
+    removing react and react-dom from deps
+
+[33mcommit 617c8e40dfed8e80ead07e776e6e481b61d4def6[m
+Merge: 7b3efbf 6418d77
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat May 28 17:08:54 2022 +0300
+
+    Merge branch 'master' of github.com:Learus/react-material-ui-carousel
+
+[33mcommit 6418d77d5c54ef98cca811b6fab04e0bc7c14daf[m
+Merge: 3264fdd d3d3dda
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Sat May 28 17:08:48 2022 +0300
+
+    Merge pull request #175 from kanekotic/master
+    
+    Update to React 18
+
+[33mcommit d3d3dda66ea3ea90cbc480321def8f38fa41acb1[m
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Sat May 28 17:08:38 2022 +0300
+
+    Update package.json
+    
+    Co-authored-by: Drew Reese <drew.w.reese@gmail.com>
+
+[33mcommit a4bbb94e46a0389444f06a7ed49a3c4a5631c4a6[m
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Sat May 28 17:08:32 2022 +0300
+
+    Update package.json
+    
+    Co-authored-by: Drew Reese <drew.w.reese@gmail.com>
+
+[33mcommit 120b5466a0f06e68eb4050d62b0d7116ad280c97[m
+Author: kanekotic <me@kanekotic.com>
+Date:   Sat Apr 2 18:31:02 2022 +0200
+
+    NOJIRA | kanekotic | update to React 18
+
+[33mcommit 7b3efbf9e6cbc551a6da12add169d66ba10f8a61[m
+Merge: 01b2058 3264fdd
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Mar 25 21:53:29 2022 +0200
+
+    Merge branch 'master' of github.com:Learus/react-material-ui-carousel
+
+[33mcommit 3264fdde6ff152fa8cb32c8201e01832ab42318c[m
+Merge: 291e95b 8cea17d
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:53:14 2022 +0200
+
+    Merge pull request #172 from Learus/dependabot/npm_and_yarn/minimist-1.2.6
+    
+    Bump minimist from 1.2.5 to 1.2.6
+
+[33mcommit 8cea17df8493e7b9e188aad52ac4ce72858785e8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:51:54 2022 +0000
+
+    Bump minimist from 1.2.5 to 1.2.6
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 01b2058d758d4abc1f8978a588325bab4ca19b0f[m
+Merge: 21c56f8 291e95b
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Mar 25 21:51:52 2022 +0200
+
+    Merge branch 'master' of github.com:Learus/react-material-ui-carousel
+
+[33mcommit 291e95b6339d31cb692e165ea280dcec565d4fc3[m
+Merge: de61831 2ed2ef2
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:51:20 2022 +0200
+
+    Merge pull request #171 from Learus/dependabot/npm_and_yarn/follow-redirects-1.14.9
+    
+    Bump follow-redirects from 1.14.0 to 1.14.9
+
+[33mcommit 2ed2ef2afe2c3c1443e62742969f88faadb3a9ea[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:50:57 2022 +0000
+
+    Bump follow-redirects from 1.14.0 to 1.14.9
+    
+    Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.0 to 1.14.9.
+    - [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+    - [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.0...v1.14.9)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: follow-redirects
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 21c56f864366258b85536cd596b430b74ecb3a4c[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Mar 25 21:50:51 2022 +0200
+
+    removed next/prev tests from demo
+
+[33mcommit de618318ae14301f4d09db26d2d173f4e350842e[m
+Merge: 72974ff 5bb4dba
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:49:37 2022 +0200
+
+    Merge pull request #159 from Learus/dependabot/npm_and_yarn/demo/url-parse-1.5.10
+    
+    Bump url-parse from 1.5.3 to 1.5.10 in /demo
+
+[33mcommit 72974ff58e5adc83676050cda8a200bc44e0757a[m
+Merge: da66d78 fccb858
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:49:29 2022 +0200
+
+    Merge pull request #160 from Learus/dependabot/npm_and_yarn/url-parse-1.5.10
+    
+    Bump url-parse from 1.5.3 to 1.5.10
+
+[33mcommit da66d78ea66f0a358655da126f67d646415aa055[m
+Merge: a8c698d bbf0d98
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:49:11 2022 +0200
+
+    Merge pull request #168 from Learus/dependabot/npm_and_yarn/demo/nanoid-3.3.1
+    
+    Bump nanoid from 3.1.25 to 3.3.1 in /demo
+
+[33mcommit a8c698df18a5e82582f353147e072a896d28bbd0[m
+Merge: d8b2b0b ba5dff9
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:48:57 2022 +0200
+
+    Merge pull request #169 from Learus/dependabot/npm_and_yarn/demo/minimist-1.2.6
+    
+    Bump minimist from 1.2.5 to 1.2.6 in /demo
+
+[33mcommit d8b2b0b2175774809ac6fda925e805ee302e8cc2[m
+Merge: ee52b6f 0dd9a4f
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:48:46 2022 +0200
+
+    Merge pull request #170 from Learus/dependabot/npm_and_yarn/demo/follow-redirects-1.14.9
+    
+    Bump follow-redirects from 1.14.4 to 1.14.9 in /demo
+
+[33mcommit 5bb4dba8dfb9d120ff2e20f10ce0aa3324e829ad[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:32:28 2022 +0000
+
+    Bump url-parse from 1.5.3 to 1.5.10 in /demo
+    
+    Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.3 to 1.5.10.
+    - [Release notes](https://github.com/unshiftio/url-parse/releases)
+    - [Commits](https://github.com/unshiftio/url-parse/compare/1.5.3...1.5.10)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: url-parse
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0dd9a4f3db783c0bbea4422a4021b7170993ede5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:29:36 2022 +0000
+
+    Bump follow-redirects from 1.14.4 to 1.14.9 in /demo
+    
+    Bumps [follow-redirects](https://github.com/follow-redirects/follow-redirects) from 1.14.4 to 1.14.9.
+    - [Release notes](https://github.com/follow-redirects/follow-redirects/releases)
+    - [Commits](https://github.com/follow-redirects/follow-redirects/compare/v1.14.4...v1.14.9)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: follow-redirects
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ba5dff9126b3793899784a46ab714d2d6224f8c8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:28:58 2022 +0000
+
+    Bump minimist from 1.2.5 to 1.2.6 in /demo
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bbf0d988c30dd7270fc44d0c32e3129e7b06e1ff[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 25 19:28:30 2022 +0000
+
+    Bump nanoid from 3.1.25 to 3.3.1 in /demo
+    
+    Bumps [nanoid](https://github.com/ai/nanoid) from 3.1.25 to 3.3.1.
+    - [Release notes](https://github.com/ai/nanoid/releases)
+    - [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/ai/nanoid/compare/3.1.25...3.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nanoid
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ee52b6f44cc55f03cf10b8e2d07de5f1c90186d2[m
+Merge: 51f2724 710be11
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 25 21:27:09 2022 +0200
+
+    Merge pull request #167 from Learus/3.3.0-alpha-test
+    
+    3.3.0 - 3.3.3
+
+[33mcommit 710be11c24896bd8b4ea5fd52b0ee98194cfb6de[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Mar 25 21:26:33 2022 +0200
+
+    changelog for 3.3.3
+
+[33mcommit 77ddbdb32a2f2ef8591d303048589969dbbe6b34[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Mar 25 21:17:43 2022 +0200
+
+    finished v3.3.3
+
+[33mcommit fa57b4105da6db27cd963964a49954607e848aa7[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Mar 19 21:14:46 2022 +0200
+
+    children's height is dynamic, index bug fixed
+
+[33mcommit 113ca4c32965bf8b5bc2b5796843809205e87977[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Mar 7 13:50:01 2022 +0200
+
+    Testing a 3.3.0 alpha push, trying to fix the broken height resizing, especially on SSR frameworks like nextjs.
+
+[33mcommit fccb8589ab99a77169d88043ae053239803433b3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 28 03:32:52 2022 +0000
+
+    Bump url-parse from 1.5.3 to 1.5.10
+    
+    Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.5.3 to 1.5.10.
+    - [Release notes](https://github.com/unshiftio/url-parse/releases)
+    - [Commits](https://github.com/unshiftio/url-parse/compare/1.5.3...1.5.10)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: url-parse
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 51f2724e1c69c43c0d08adbdaaa40b20757e20b1[m
+Merge: bdb31d9 c3874af
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Thu Feb 10 10:43:34 2022 +0200
+
+    Merge pull request #150 from Learus/dependabot/npm_and_yarn/demo/node-sass-7.0.0
+    
+    Bump node-sass from 6.0.1 to 7.0.0 in /demo
+
+[33mcommit c3874af8f96b1a81122b9de639e3d2cb2eff9d3c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Feb 10 08:24:50 2022 +0000
+
+    Bump node-sass from 6.0.1 to 7.0.0 in /demo
+    
+    Bumps [node-sass](https://github.com/sass/node-sass) from 6.0.1 to 7.0.0.
+    - [Release notes](https://github.com/sass/node-sass/releases)
+    - [Changelog](https://github.com/sass/node-sass/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/sass/node-sass/compare/v6.0.1...v7.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: node-sass
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bdb31d9e9e970be62b77e79a95cba2aa76434732[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Feb 10 10:21:43 2022 +0200
+
+    pushing v3.2.0
+
+[33mcommit 0a72a9527825f613a176be945a92e64ce5095c87[m
+Merge: f78f0e5 7109922
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Feb 10 10:03:13 2022 +0200
+
+    Merge branch 'master' of github.com:Learus/react-material-ui-carousel
+
+[33mcommit 7109922e053e506bcc0281a3075024aef23d2203[m
+Merge: b0cdb5b 3b3440d
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Thu Feb 10 10:03:01 2022 +0200
+
+    Merge pull request #148 from hajineats/enhancement/master-pause-carousel-on-keyboard-focus
+    
+    [version 3] enhancement: carousel to stop on keyboard focus for accessibility
+
+[33mcommit f78f0e5bde7ab5b30f64f9f287b3226b0a4695c8[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Feb 10 10:01:24 2022 +0200
+
+    mui/system on package. Preparing 3.2.0
+
+[33mcommit 3b3440de50167afe19773be674445bc5279a8e1a[m
+Author: Hajin Kim <hkim532@aucklanduni.ac.nz>
+Date:   Thu Feb 10 12:03:36 2022 +1300
+
+    enhancement: carousel to stop on keyboard focus for accessibility
+
+[33mcommit b0cdb5bf4303537d8632c60fb799b5966f8eda58[m
+Merge: 2538fb1 9f76db9
+Author: Yannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Wed Feb 9 18:20:13 2022 +0200
+
+    Merge pull request #143 from matyas-igor/master
+    
+    feat: make library more compatible with MUI v5
+
+[33mcommit 9f76db9524f34914d583e29b94bf9ca6f2afc8b7[m
+Merge: 16c0aa9 2538fb1
+Author: Igor Matias <matyas.igor@gmail.com>
+Date:   Wed Feb 2 00:24:37 2022 +0100
+
+    Merge branch 'Learus:master' into master
+
+[33mcommit 16c0aa9f1084b191df956c8195ce10f490bec388[m
+Merge: ae7e21a 93e8de7
+Author: Igor Matias <matyas.igor@gmail.com>
+Date:   Wed Feb 2 00:22:05 2022 +0100
+
+    Merge pull request #1 from Learus/matyas-igor/master
+
+[33mcommit 2538fb1d229b78b2cbbe8a6151f40b148d909616[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Jan 24 18:25:13 2022 +0200
+
+    Update README.md
+
+[33mcommit 93e8de7efea71137a6b3591d1d91ed4d9c7174a8[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Jan 22 19:32:22 2022 +0200
+
+    split structure, styling bugs, CHANGELOG
+
+[33mcommit ae7e21af288c30934dabb6da20e88c76600102e9[m
+Author: Igor Matias <matyas.igor@gmail.com>
+Date:   Thu Jan 20 17:41:27 2022 +0100
+
+    docs: fix formatting
+
+[33mcommit c658e269ba04205c65a7e28cac621cf5dac43684[m
+Author: Igor Matias <matyas.igor@gmail.com>
+Date:   Thu Jan 20 17:30:35 2022 +0100
+
+    fix: remove passing extra props to NavButton
+
+[33mcommit 089fb5b01a89621ecd67b93cc912d17169bcdba2[m
+Author: Igor Matias <matyas.igor@gmail.com>
+Date:   Thu Jan 20 14:28:43 2022 +0100
+
+    feat: make library more compatible with MUI v5
+    
+    - removed legacy `@mui/styles` (and thus `jss` dependency)
+    - converted `makeStyles` into using `styled` helper
+    - added support for `sx` prop on Carousel container
+    - added more arguments (`fullHeightHover`, `alwaysVisible`) to NavButton render prop function
+
+[33mcommit 3d0f261b30b9685b378777d852221c6cd2a37863[m
+Merge: 80b0381 88a096e
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Wed Nov 24 15:25:43 2021 +0200
+
+    Merge pull request #132 from nicolasmartinez0510/master
+    
+    Array for IndicatorIcon prop
+
+[33mcommit 88a096e80838e394a3448cef5701b8b4a260c3a2[m
+Author: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+Date:   Thu Nov 18 19:02:53 2021 -0300
+
+    :bug: fixing bug of rendering in Indicators when the array length is smaller than the children's array length
+    
+    Signed-off-by: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+
+[33mcommit 265ae783e013743a87bb4e937296389b3a258771[m
+Author: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+Date:   Thu Nov 11 20:01:43 2021 -0300
+
+    :memo: Update the documentation and add an example about the possibility of adding an array in the IndicatorIcon prop
+    
+    Signed-off-by: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+
+[33mcommit b4a3a565e627a1027b444f928a49af38b3d1ae94[m
+Author: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+Date:   Thu Nov 11 19:38:08 2021 -0300
+
+    :sparkles: add feature for allow array in IndicatorIcon prop
+    
+    Signed-off-by: Nicolas Martinez <martinez.nicolas0510@gmail.com>
+
+[33mcommit 80b0381829055773e53680283340ca9c70cd2ccd[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:33:26 2021 +0300
+
+    updated version from alpha
+
+[33mcommit ff73e1490d183fc5185f5958c1527f0e51069452[m
+Merge: 9893f2e 2443a73
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:26:57 2021 +0300
+
+    Merge branch 'hookify'
+
+[33mcommit 2443a73f4af097228287e3cbf3d22518ed01d828[m
+Merge: eeb7910 9893f2e
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:26:41 2021 +0300
+
+    Merge branch 'master' into hookify
+
+[33mcommit 9893f2eafc4f11034ec8424f1a1c714408285126[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:13:24 2021 +0300
+
+    update readme for v3, publish version2 tag
+
+[33mcommit eeb7910400d94c9445c0ee2a371221c9e02328ef[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:08:54 2021 +0300
+
+    update readme to reflect versioning
+
+[33mcommit 4cbfad68efdc6da79fd95e1870737984ba3d2b2e[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Oct 30 17:03:37 2021 +0300
+
+    v3 is finished!
+
+[33mcommit 4a4734e76b2afcd59187492821ded7d812eb2fab[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Oct 29 01:51:24 2021 +0300
+
+    v3 alpha is done and published. changelog next
+
+[33mcommit 45350ae47d3772055ea1cabcf139222f5625222c[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Wed Sep 29 11:19:17 2021 +0300
+
+    demo styling final stages
+
+[33mcommit afcda50c23ad943067bed5e07aabf52d9cb2c5ee[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Tue Sep 28 16:19:03 2021 +0300
+
+    more demo styling
+
+[33mcommit c1da44ff72f7dc4860888278cb0b0e908a8500b1[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri Sep 24 16:00:07 2021 +0300
+
+    styling + responsive demo. Remove reverseedge
+
+[33mcommit b3efedbe0f9c45b76e8a182b0e348090f0a7338b[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Sep 24 13:33:45 2021 +0300
+
+    2.3.6 mui 5 suport on readme
+
+[33mcommit 41496b8933613c3ed75c2ce6c890b5a45f050115[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Thu Sep 23 16:13:01 2021 +0300
+
+    hookify to 2.3.5. 3.0.0 almost done. Demo to ts.
+
+[33mcommit bb8cc6a110118bf3ea22c4173beb58d1716c2968[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Wed Sep 22 11:52:53 2021 +0300
+
+    2.3.5 publishing error
+
+[33mcommit 93ecb0f3f9fcd747c8a196d99c6d908bcdba05da[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 15 15:48:06 2021 +0300
+
+    uploaded author link fix
+
+[33mcommit 4a76174753b3ed5b2a8e1f2352ea33e34492053f[m
+Merge: c9569c2 079eb69
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Sun Aug 15 15:43:57 2021 +0300
+
+    Merge pull request #109 from hamidreza-nateghi/patch-1
+    
+    Fix Author link
+
+[33mcommit c9569c2e7ac663dfdf1b607b578d229e6c72a3b6[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 15 15:23:22 2021 +0300
+
+    updated demo to 2.3.0 + audit fix
+
+[33mcommit 00b1de77ed88bf0c397c243924f237c639fa2f95[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 15 14:43:39 2021 +0300
+
+    changelog v2.3.0
+
+[33mcommit 079eb698b6356aa6fbe80cb3c4ddf98fcfacf911[m
+Author: Hamidreza Nateghi <49614532+hamidreza-nateghi@users.noreply.github.com>
+Date:   Thu Aug 5 14:05:02 2021 +0430
+
+    Update README.md
+    
+    Fix Author link
+
+[33mcommit 0cc3560ecbaebd2e235beee904108d5b1bf693ee[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jul 6 00:15:03 2021 +0300
+
+    first try at rewriting
+
+[33mcommit ff2874803f33eefe8e87c36f31b0c098a0121f5a[m
+Merge: ef8deee 250b9cb
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Jul 5 22:14:05 2021 +0300
+
+    Merge pull request #103 from Learus/master
+    
+    2.2.7
+
+[33mcommit 250b9cb3b05493a903c0b7c8cc0e994a7012c2c7[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Jul 5 22:10:01 2021 +0300
+
+    2.2.7
+
+[33mcommit ef8deee03656ad9095b0805df61d5b665ebc867f[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri May 7 14:05:20 2021 +0300
+
+    updated demo to use 2.2.6
+
+[33mcommit 850572755e7ce88b4b4912d2c2cbeca8e920bc36[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri May 7 13:43:15 2021 +0300
+
+    update react swipeable
+
+[33mcommit 6a7b63796381af9841a2f9e37dfe1583f625c8d4[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri May 7 13:00:46 2021 +0300
+
+    changelog 07-05-21
+
+[33mcommit 1c462b26e546641043713d10f3ff9778d4e0251f[m
+Merge: 4fb6074 540b374
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Apr 23 01:00:01 2021 +0300
+
+    Merge pull request #98 from crsiebler/bugfix/readme-typo-ex-2-custom-indicator
+    
+    Corrected typo on Example #2 of customized indicators.
+
+[33mcommit 540b374afef1d2a9cbf8ca755d2d9e9872467e51[m
+Author: Cory Siebler <cory.siebler@er2.com>
+Date:   Thu Apr 22 14:45:22 2021 -0700
+
+    Corrected typo on Example #2 of customized indicators.
+
+[33mcommit 4fb6074c754bb0cecad55c80e4f7c66fb574cc62[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri Apr 9 10:44:16 2021 +0300
+
+    changelog 9/4/21
+
+[33mcommit 551b157edf8084649ee0f9f5412dc77f668c36b5[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri Apr 9 10:28:49 2021 +0300
+
+    react peerdep -> ^17
+
+[33mcommit 4374614f01c8047eba2723d69311738828e0411c[m
+Author: learus <jmaliaras@gmail.com>
+Date:   Fri Mar 26 09:39:29 2021 +0200
+
+    changelog & package v2.2.2, brace fix
+
+[33mcommit 84ff27a22491b4ae79b40556f640fddb713f7a4d[m
+Merge: ad4de2f a2eae0f
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Mar 26 09:35:40 2021 +0200
+
+    Merge pull request #89 from 8BitAron/master
+    
+    BugFix: Buttons are not hidden by default
+
+[33mcommit a2eae0f1005241e1285d456dc37a7c0d54e28352[m
+Author: Aron Braggans <aron.braggans@gmail.com>
+Date:   Wed Mar 24 11:25:34 2021 -0500
+
+    remove } from string
+
+[33mcommit ad4de2fe0b4231016d1de887311070e161a73b38[m
+Merge: a4096ce 7099d14
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Thu Mar 11 10:57:51 2021 +0200
+
+    Merge pull request #87 from mayankmandloi/patch-1
+    
+    fix: fixing typo
+
+[33mcommit 7099d14d628bc5b806f2cb67d2c2712e107dfaab[m
+Author: mayankmandloi <mayankmandloi009@gmail.com>
+Date:   Thu Mar 11 10:58:17 2021 +0530
+
+    fix: fixing typo
+    
+    fixing a typo of activeIndicatorIcomButtonProps to activeIndicatorIconButtonProps
+
+[33mcommit a4096ce86e434c1386265306eef56bf9e964935e[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri Feb 26 12:16:39 2021 +0200
+
+    2.2.1
+
+[33mcommit 367e470577cd41525c84fca8c1df43eeb64b79f6[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Feb 25 15:02:13 2021 +0200
+
+    2.1.2 -> 2.2.0 package.json
+
+[33mcommit 8539a8a2f2e57e296882c26ca2d2795734df24a6[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Feb 25 14:32:52 2021 +0200
+
+    rephrase README
+
+[33mcommit 04ed50b7473eda40dc8fab557627e46716f3a5fc[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Feb 24 17:51:14 2021 +0200
+
+    readme typo
+
+[33mcommit d27ce2017d132af970e418302ec41ac38a393e35[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Feb 24 15:53:49 2021 +0200
+
+    customizability section
+
+[33mcommit d9f8f6a9d497ea3a1f611d87bd77780c38795c6f[m
+Merge: d0063d8 6bec5f4
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Feb 23 17:00:32 2021 +0200
+
+    Merge branch 'master' of https://github.com/learus/react-material-ui-carousel
+
+[33mcommit d0063d8a7358523963692d3deaa73dc83d504e0a[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Feb 23 17:00:30 2021 +0200
+
+    changelog v2.2.0
+
+[33mcommit 6bec5f4599815b8a3e6dfaf7e1354e244d5d9f67[m
+Merge: fabd129 2bd1edc
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Feb 22 14:53:38 2021 +0200
+
+    Merge pull request #84 from Learus/revert-75-master
+    
+    Revert "Customizable icons."
+
+[33mcommit 2bd1edcc75e224f037b7459d36a81f7a29ec94d5[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Feb 22 14:53:24 2021 +0200
+
+    Revert "Customizable icons."
+
+[33mcommit fabd1291a5a2e9d4c056402e91bddd0c746f3695[m
+Merge: 8347f62 af044e2
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Feb 22 14:53:13 2021 +0200
+
+    Merge pull request #75 from cansin/master
+    
+    Customizable icons. First iteration
+
+[33mcommit af044e22f9993176714b94e7d41337e3ed151d43[m
+Merge: 0b3b5ed 8347f62
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Feb 22 14:52:37 2021 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit 8347f621493957f55f52127435bebd98ce5911d3[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Jan 11 16:42:55 2021 +0200
+
+    updated deprecated publish scripts
+
+[33mcommit 04311bc11fe07ceb7e6e0a8a6ae919ea1775f8cf[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Jan 11 16:17:52 2021 +0200
+
+    Version 2.1.2. See Changelog
+
+[33mcommit 0b3b5ede42352d95bd124a0033ec773897f939c2[m
+Author: Cansin Yildiz <cansinyildiz@gmail.com>
+Date:   Tue Nov 24 04:09:50 2020 +0300
+
+    Let icons be customizable and remove the inherent `@material-ui/icons` dependency.
+
+[33mcommit 36a90967624e175cf6eb137fc551d34db457b18b[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Oct 28 20:15:25 2020 +0200
+
+    Carousel Path Imports
+
+[33mcommit b610b4b4702efcd6a3c3d453e802b7e6e02022da[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Oct 28 19:58:02 2020 +0200
+
+    os agnostic building + updated demo
+
+[33mcommit f16711b7b27ee50487dfca77b33c8e327d803d39[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Oct 28 19:47:27 2020 +0200
+
+    index prop. streamlined child changing process
+
+[33mcommit f5d96e19b5daaa3a9a213cf8cc6c7b3a8f88a9bc[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Oct 21 09:24:15 2020 +0300
+
+    solved next-prev bug
+
+[33mcommit 211a53e51062d66a01c7400ca1ab8c59fb50ed03[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Oct 6 09:47:02 2020 +0300
+
+    new version for typo bug
+
+[33mcommit 988cb2df9befc0db70211497b65071ea61e81a02[m
+Merge: 783fc9f 0204298
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Tue Oct 6 09:43:52 2020 +0300
+
+    Merge pull request #62 from EvoTech3/patch-1
+    
+    Fix navButtonsAlwaysVisible
+
+[33mcommit 0204298a7230f8afeecd8950add0f0d00823e87c[m
+Author: EvoTech3 <evotech3@gmail.com>
+Date:   Mon Oct 5 17:25:37 2020 +0300
+
+    Fix navButtonsAlwaysVisible
+
+[33mcommit 783fc9f3b67352d6646ddef28a52885250fbc11a[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed Sep 30 09:08:12 2020 +0300
+
+    demo updated version
+
+[33mcommit 4debe823cfcaaa69b1cb8bd55e92aea7a85e86e2[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Mon Sep 21 22:08:21 2020 +0300
+
+    redone children updating, animation direction
+
+[33mcommit bb0214fdb719899cf00137f67a6174891e1116fd[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Sep 21 11:49:13 2020 +0300
+
+    version update
+
+[33mcommit 054cef110113a4373311a80090561e59d6b9a3a7[m
+Merge: 584c4f1 616f69a
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Mon Sep 21 08:10:25 2020 +0300
+
+    Merge pull request #54 from michaelshum321/typing-fix
+    
+    Fix required prop and add reusable interface
+
+[33mcommit 616f69a64fe16a37b8d4d23d1123b5240ca8ef77[m
+Author: michaelshum321 <mckshum@gmail.com>
+Date:   Sun Sep 20 15:24:15 2020 -0700
+
+    Fix required prop and add reusable interface
+
+[33mcommit 584c4f1cf3c3888dabe06c48f5371ae14c95ae99[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Sun Sep 20 20:49:50 2020 +0300
+
+    customize indicator container, length update bug
+
+[33mcommit 677db2be1654d8bf6adae7ffb3fb0ea6050eabac[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Sep 1 08:31:27 2020 +0300
+
+    v1.8.3 in package.json
+
+[33mcommit ad44041885cb7108948cc81a0ade2c0535dd529e[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Sep 1 08:28:00 2020 +0300
+
+    className inactive indicators bug
+
+[33mcommit 0cb9ba070cb38dcea9df168f657cb12ff2840e1d[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Aug 13 18:48:43 2020 +0300
+
+    fixed typing error, children length undefined
+
+[33mcommit 12bf3d99f3e788d6cae72aabdf0851d1cdb7ebc7[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 2 19:43:23 2020 +0300
+
+    updated demo + main README
+
+[33mcommit 57fb46a5aedd91577b8a0b08a2776a25178e0b20[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 2 19:35:26 2020 +0300
+
+    moved files for v.1.8.0
+
+[33mcommit ec5a219d18ca126ed90075fc247e4855d4141986[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Aug 2 19:33:23 2020 +0300
+
+    hiding navbuttons, peerdep, scroll overflow
+
+[33mcommit f20483b846612698a5b2cf8e5ac9905e3b36ae96[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Wed Jul 22 10:02:07 2020 +0300
+
+    Update README.md
+
+[33mcommit 04a0b52ddd69c3cdcc2292276ed8e54af7aa7a94[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Wed Jul 22 10:01:26 2020 +0300
+
+    Update README.md
+
+[33mcommit 75f450939b07a2f3315aa526e6a1bf1cf0c6d269[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jul 21 13:32:37 2020 +0300
+
+    updated and uploaded demo
+
+[33mcommit b69babef7639d7918a50ab8cf4eebf22aa3d2e2c[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jul 21 11:48:26 2020 +0300
+
+    onChange callback + customize indicators
+
+[33mcommit 1330c11eb0750f4bce0ffcd9f9dd021effceb2d3[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Jun 14 20:37:38 2020 +0300
+
+    touch functionality + next prev callbacks
+
+[33mcommit 1cae7d91aa94b3bab46d3ff09734d721cd168b1f[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Jun 13 12:39:06 2020 +0300
+
+    new version for aria labels fix
+
+[33mcommit 517711238f9e3e6c5da9cfe75370903d22520ade[m
+Merge: c75d5cc 100aa36
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Sat Jun 13 12:33:06 2020 +0300
+
+    Merge pull request #26 from sunhoww/patch-1
+    
+    fix: aria-label next and prev IconButtons
+
+[33mcommit 100aa361ca2165f5306ad2b6c0a879db98b70002[m
+Author: Sun Howwrongbum <sun@libermatic.com>
+Date:   Fri Jun 12 20:24:31 2020 +0530
+
+    fix: aria-label next and prev IconButtons
+
+[33mcommit c75d5cc3962e27b6f1983afce3926d31b9794738[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jun 2 14:26:23 2020 +0300
+
+    packagelock
+
+[33mcommit 8b7fbba98bf17e88eb6fcea9892b7f3a504dd5f5[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jun 2 14:24:15 2020 +0300
+
+    added startAt feature
+
+[33mcommit d6e9265a16912b269c396088df6a95c13a740b51[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Wed May 27 01:21:36 2020 +0300
+
+    changed demo to use 1.5.0 version
+
+[33mcommit 17b7abf1686f60c6bb49c9ac1abe5ccfd51b65b1[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon May 25 11:01:29 2020 +0300
+
+    Fixed the no out animation bug
+
+[33mcommit a9378a6bcfdb19a085a5c9e95f173ea6e681ea4f[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Fri May 15 12:44:01 2020 +0300
+
+    typo in documentation
+
+[33mcommit dfe3e4a6556355fced8eb2515aeab6e748def5cd[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed May 13 15:49:14 2020 +0300
+
+    demo update to 1.4.4
+
+[33mcommit e0f262ce88625c4f9b79a851745be7b613bfb80f[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Wed May 13 15:39:41 2020 +0300
+
+    optional full height hover functionality
+
+[33mcommit b03be1a0ec46a86d48cdf9955707a2595a6f5dee[m
+Merge: f347864 3d5254a
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Wed May 13 15:00:52 2020 +0300
+
+    Merge pull request #18 from Diaver/always_show_nav_button_plus_style_fix
+    
+    Added new option navButtonsAlwaysVisible and fixed hover styles but n…
+
+[33mcommit 3d5254a11685edcca67cca0de931b346a0ffecc3[m
+Author: Stanislav Glushak <st.glushak@gmail.com>
+Date:   Sun May 10 17:02:35 2020 -0400
+
+    Added new option navButtonsAlwaysVisible and fixed hover styles but nav buttons - now they use one space in middle with fixed hover
+
+[33mcommit f3478649efbe8390dbba9ca16a7d7c35219e2112[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Thu May 7 13:59:06 2020 +0300
+
+    Rename LICENSE to LICENSE.txt
+
+[33mcommit 79af9782c78301477c29950b0b29a5a0f4bb91d7[m
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Thu May 7 13:57:56 2020 +0300
+
+    Create LICENSE
+
+[33mcommit 78765405f1204ace5c6282d219cf7f5495983187[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Apr 25 20:53:11 2020 +0300
+
+    updated demo to use newer version
+
+[33mcommit c9bc0388078f4f0f05a2198e4f0f78574e7652d2[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Apr 25 20:03:47 2020 +0300
+
+    adding react and react-dom as peer dependencies
+
+[33mcommit 4b952d08ff1936dbe9f302a9459a9b04dbd5d60a[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Apr 25 17:01:03 2020 +0300
+
+    updated version to publish dist files
+
+[33mcommit 3145014217aa486c52964d5b254777bec6d1dcc2[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Apr 25 14:55:53 2020 +0300
+
+    lock diff
+
+[33mcommit e473537802f53f4c65d8e3ad9c0def844c0c0b76[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sat Apr 25 14:53:53 2020 +0300
+
+    changed styling to MaterialUI styling solution
+
+[33mcommit c26e6fe355187dfab61acd86fbe0e4dd40b11798[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 23 16:51:50 2020 +0300
+
+    lock.json
+
+[33mcommit b7b7d07168e3215ca758920bfc06f24131ba30cc[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 23 16:45:43 2020 +0300
+
+    updated package.jsons
+
+[33mcommit 6251fff3a76b960023ae09b3f07501f81573b480[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 23 16:34:44 2020 +0300
+
+    added timeout, updated demo, updated readme
+
+[33mcommit 53147bd2a4bb6909d9f31de627c4e903c5168a03[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 16 15:57:21 2020 +0300
+
+    className prop changed to optional (bug fix)
+
+[33mcommit de40497060e211f9552fcda8c4a6782ce979127c[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 16 15:51:50 2020 +0300
+
+    change version -> 1.2.0
+
+[33mcommit 9e00d3b45d3b9422bc9c49da922b5668874ce2e6[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Thu Apr 16 15:51:08 2020 +0300
+
+    added definitions for typescript support
+
+[33mcommit 9c608636d7b2c56a6ddd7cfbe03983bac8e5eba5[m
+Merge: ba42aa0 2efa284
+Author: Ioannis Maliaras <33862893+Learus@users.noreply.github.com>
+Date:   Fri Feb 21 17:47:16 2020 +0200
+
+    Merge pull request #6 from simo97/master
+    
+    [UPDATE README] Fix some typo in quick test code
+
+[33mcommit 2efa28416bcc7648d808c8ae321dbee2b1389bb7[m
+Author: adonis simo <simoadonis@yahoo.fr>
+Date:   Fri Feb 21 10:01:50 2020 +0100
+
+    Fix some typo in quick test code
+    
+    It was impossible to copy-paste and run this code, because of some misplaced typo in the code.
+
+[33mcommit ba42aa050e2930b9575060e7e1647e7d9567316b[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Jan 7 12:45:09 2020 +0200
+
+    forgot to build before publishing. fixed demo
+
+[33mcommit a5ba3ccc4d61eec9ca1380349d771322b133f8a9[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Jan 7 12:18:06 2020 +0200
+
+    updated demo to use new version
+
+[33mcommit 085072b33256999f8921806df9a0ab1592ea83c3[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jan 7 13:57:07 2020 +0200
+
+    updated version number
+
+[33mcommit 089615760b7ec6a86d1551ad513d76226bcbac11[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Jan 7 13:56:13 2020 +0200
+
+    Added compiled stylesheets 2
+
+[33mcommit 586def729cb1df7ce868ec9c7a2da1e41291ca38[m
+Merge: d1348f2 58207a8
+Author: Learus <33862893+Learus@users.noreply.github.com>
+Date:   Tue Jan 7 13:51:31 2020 +0200
+
+    Merge pull request #4 from SalahAdDin/patch-1
+    
+    Added compiled styles
+
+[33mcommit 58207a83e61583281e99939fbf45baf0059436e1[m
+Author: José Luis <alagunasalahaddin@live.com>
+Date:   Tue Jan 7 14:30:34 2020 +0300
+
+    Added compiled styles
+    
+    If we are creating simple pages, or using per-component styles, we don't use transpileres.
+
+[33mcommit d1348f2bbd2baed725d62adad704a2372edcbe93[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Thu Oct 17 00:23:08 2019 +0300
+
+    Finishing up
+
+[33mcommit d0e175789897386c69da25c5a5615cbca855ade9[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Wed Oct 16 23:03:45 2019 +0300
+
+    New simpler bootstrap
+
+[33mcommit eb252044afd7a7ea7473524cfeca8f0a24f35cd4[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Wed Oct 16 22:54:12 2019 +0300
+
+    v change
+
+[33mcommit 729fcd9724641a6fa1da096bc095d07485110c34[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Oct 15 16:39:44 2019 +0300
+
+    webpack config changes
+
+[33mcommit 824f1474869c61bf84f09b6a7d83461272f9c0ae[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Oct 15 16:17:48 2019 +0300
+
+    readme and package updates
+
+[33mcommit eef16a8a195ace2b5a13b6b6957394f8fcc6cf4b[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Oct 15 15:37:26 2019 +0300
+
+    repo package json updates
+
+[33mcommit 9dea01fe5418b23247ecc0761ccf7953ff63eebb[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Oct 15 15:35:06 2019 +0300
+
+    package json updates
+
+[33mcommit 2fec8b82af32f47404ca54bdeaecacd605926e2a[m
+Author: Brewknight <jmaliaras@gmail.com>
+Date:   Tue Oct 15 15:11:27 2019 +0300
+
+    Readme + links to repo
+
+[33mcommit 21e20b25076dd1eb6c94163f1eca16846f86022c[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Oct 15 02:22:58 2019 +0300
+
+    second example done almost
+
+[33mcommit 304189227265754f297b7e2d1b661bf31e4d49b0[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Tue Oct 15 00:24:58 2019 +0300
+
+    Finished example 1, some changes
+
+[33mcommit d79fa1bfa8d523c09127acab0c349849ef0edf85[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Mon Oct 14 13:41:14 2019 +0300
+
+    Demo example 1 options complete
+
+[33mcommit 85a2d5b677a752dd2f0d22ef462599e357b309e9[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Oct 13 22:59:25 2019 +0300
+
+    started extending demo
+
+[33mcommit 9cfdadc3aba573083fcd57674d7264ebd5c7852d[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Oct 13 22:16:25 2019 +0300
+
+    Initial commit
+
+[33mcommit 0a4003da502274f51fa5517144fa02f6f1254f18[m
+Author: Learus <jmaliaras@gmail.com>
+Date:   Sun Oct 13 19:46:05 2019 +0300
+
+    Initial commit from Create React Library
