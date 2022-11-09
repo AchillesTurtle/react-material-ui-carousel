@@ -49,12 +49,13 @@
         ]
     },
     "dependencies": {
-        "@emotion/react": "^11.7.1",
-        "@emotion/styled": "^11.6.0",
-        "@mui/icons-material": "^5.4.1",
-        "@mui/material": "^5.4.1",
-        "@mui/system": "^5.4.1",
-        "framer-motion": "^4.1.17"
+        "@emotion/react": "^11.4.1",
+        "@emotion/styled": "^11.3.0",
+        "@mui/icons-material": "^5.0.0",
+        "@mui/material": "^5.0.0",
+        "@mui/system": "^5.0.0",
+        "framer-motion": "^4.1.17",
+        "glob": "^8.0.3"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
