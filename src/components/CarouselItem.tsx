@@ -111,7 +111,7 @@ export const CarouselItem = ({ animation, next, prev, swipe, state, index, maxIn
     let animate = 'center';
     if (index === active)
         animate = 'center';
-    else if (maxIndex < 2 || index === prevActive)
+    else if (index === prevActive)
     {
         animate = isNext ? 'leftwardExit' : 'rightwardExit';
         if (maxIndex > 1) {
@@ -122,9 +122,10 @@ export const CarouselItem = ({ animation, next, prev, swipe, state, index, maxIn
     else
     {
         animate = index < active ? 'leftOut' : 'rightOut';
-        if (active === maxIndex && index === 0) animate = 'rightOut';
-        if (active === 0 && index === maxIndex) animate = 'leftOut';
-        
+        if (maxIndex > 1) {
+            if (active === maxIndex && index === 0) animate = 'rightOut';
+            if (active === 0 && index === maxIndex) animate = 'leftOut';
+        }
     }
 
     duration = duration / 1000;
