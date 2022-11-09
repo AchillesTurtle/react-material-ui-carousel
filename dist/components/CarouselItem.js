@@ -109,7 +109,7 @@ var CarouselItem = function (_a) {
     var animate = 'center';
     if (index === active)
         animate = 'center';
-    else if (maxIndex < 2 || index === prevActive) {
+    else if (index === prevActive) {
         animate = isNext ? 'leftwardExit' : 'rightwardExit';
         if (maxIndex > 1) {
             if (active === maxIndex && index === 0)
@@ -120,10 +120,12 @@ var CarouselItem = function (_a) {
     }
     else {
         animate = index < active ? 'leftOut' : 'rightOut';
-        if (active === maxIndex && index === 0)
-            animate = 'rightOut';
-        if (active === 0 && index === maxIndex)
-            animate = 'leftOut';
+        if (maxIndex > 1) {
+            if (active === maxIndex && index === 0)
+                animate = 'rightOut';
+            if (active === 0 && index === maxIndex)
+                animate = 'leftOut';
+        }
     }
     duration = duration / 1000;
     return (react_1.default.createElement(Styled_1.StyledItem, null,
